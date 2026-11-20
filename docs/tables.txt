@@ -1,0 +1,42 @@
+--- TABLE 0 ---
+Pillar | Choice
+Promise | Two outcomes owners already want: lower cost (“Find the leak”) and an easier working week (“Get your time back”).
+Customer | Owner-run firms and the finance, sales and operations heads who report to them. Launch around Vadodara; message national.
+Offer | A ladder from a one-day AI Clinic to a fixed-fee Diagnostic, a 4–6 week Pilot and a monthly partnership.
+Channel | A talk at BMA, contacts captured on the day, a paid day within days, then referrals and a second talk.
+Proof | Number cards from real work, permissioned quotes and case notes. Nothing invented.
+Authority | Vikas Gupta: IIM Ahmedabad (PGDM 2003), AI governance and advisory work, author of The AI Trilogy.
+--- TABLE 1 ---
+Segment | Sharpest pain | First programs
+Engineering and auto-component vendors | Slow quotes, scrap and rework | Quote without me; Rejection and rework cost
+Chemicals and pharma suppliers | Compliance dates, scattered accounts data | Due-date watch; Ask my Tally
+Traders and distributors | Cash stuck with customers; no weekly view | Cash stuck in market; Monday sheet
+Finance, sales and operations heads | Contract exposure; reporting by hand | Monday sheet; Penalty and clause scan
+--- TABLE 2 ---
+Step | What the owner gets | Length | Ends with
+AI Clinic | Small group at BMA; each owner works on their own file | 1 day, 6–8 owners | A number card per owner
+On-site sprint | One program run inside the owner’s firm | 1–2 days | The number card on live data
+Diagnostic | Several programs across finance, sales and operations | 2–3 days, fixed fee | Ranked fixes with estimated value
+Pilot | One fix built and run in the business | 4–6 weeks, fixed fee, part tied to an agreed measure | A measured result
+Monthly partnership | New programs, review of results, AI governance | Monthly | Steady improvement
+--- TABLE 3 ---
+# | Step | What happens
+1 | Talk at BMA | A 45-minute Friday Evening Talk with two live demos and one volunteer owner’s file.
+2 | Capture contacts | Registration slip records sector, headache (cost or time) and a file the owner could bring. Follow up within 48 hours.
+3 | Paid day | AI Clinic for those who bring a file; on-site sprint for those who prefer their own office.
+4 | Convert | One-page note with the number card; propose a Diagnostic.
+5 | Compound | Permissioned case notes and quotes feed the site and the next talk; offer BMA a second talk; add other chambers and professional networks.
+--- TABLE 4 ---
+Phase | Timing | Focus
+Launch | First month | Fix fees; check trademark and domain; build the website; prepare demos; give the BMA talk; follow up every contact.
+Prove | Months 2–4 | Run the first Clinics and sprints; deliver number cards; convert the first Diagnostics; collect permissioned proof.
+Scale | Months 5–12 | Run the first Pilots; add a second channel beyond BMA; publish case notes; start monthly partnerships; review the program library.
+--- TABLE 5 ---
+Risk | Response
+BMA audience has few owners | Ask BMA for the attendee mix; invite owners directly through members.
+Live demo fails | Recorded fallbacks, tested files, rehearsal on the venue’s internet.
+Owners take ideas, do not book | Show the number, not the method; the paid day is the next step.
+Data sensitivity | Work on a copy; state data handling in writing; offer masked samples.
+One day is too short | Ask for the file a week ahead; label results as estimates.
+Dependence on one channel | Add a second channel after the first talk.
+Brand conflict | Search the IP India register and check .in and .com domains before printing at scale.
