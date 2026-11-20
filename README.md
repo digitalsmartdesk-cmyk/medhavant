@@ -12,15 +12,15 @@ public-facing site. Do not deploy it anywhere public until the owner
 
 ## What this is
 
-A single, self-contained HTML file: `site/index.html`. No build step,
+A single, self-contained HTML file: `index.html`. No build step,
 no framework, no backend, no external network requests. All CSS is
 inline in one `<style>` block. The only JavaScript is: the mobile nav
 toggle, the collapsible "program library" disclosure, and the enquiry
 form handler described below. The logo, favicon and apple-touch-icon
 are embedded as base64 data URIs directly in the HTML.
 
-**Preview it** by opening `site/index.html` in a browser, or serving
-the folder: `cd site && python3 -m http.server`.
+**Preview it** by opening `index.html` in a browser, or serving
+the repo root: `python3 -m http.server`.
 
 ## Page structure (section ids, in order)
 
@@ -124,7 +124,7 @@ contact-form submissions.
 
 ## Contents of this handoff
 
-- `site/index.html` — the current draft.
+- `index.html` — the current draft (served at the repo root for GitHub Pages).
 - `brand-assets/` — original logo files from the owner's `Brand_Assets.zip`,
   for reference if higher-resolution exports are ever needed.
 - `docs/paragraphs.txt`, `docs/tables.txt` — full extraction of the
